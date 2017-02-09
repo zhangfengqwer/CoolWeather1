@@ -5,6 +5,9 @@ import android.os.Bundle;
 
 import com.bumptech.glide.Glide;
 
+import org.litepal.LitePal;
+import org.litepal.util.Const;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
